@@ -1,0 +1,38 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-color: rgb(207, 211, 213);;
+	text-align: center;
+	
+
+}
+
+#content{
+	background-color: white;
+	margin-left: 500px;
+	margin-right: 500px;
+	width: 350px;
+	padding-right: 10px;
+	padding-left: 10px;
+	font-size: 15px;
+	overflow: hidden;
+	height: 300px;
+	-webkit-transition:max-height 0.7s;
+	-moz-transition:max-height 0.7s;
+	transition:max-height 0.7s;
+}
+
+
+
+#show{
+	text-decoration: none;
+	color: white;
+	background-color: blue;
+	font-size: 15px;
+	width: 100px;
+	height: 30px;
+	border-radius: 5px;
+	border-color: blue;
+}
